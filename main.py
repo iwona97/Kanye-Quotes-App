@@ -1,7 +1,6 @@
 from tkinter import *
 import requests
 
-
 API_ENDPOINT = "https://api.kanye.rest"
 
 
