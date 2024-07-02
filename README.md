@@ -59,22 +59,6 @@ Here's how to enjoy Kanye's wisdom:
 2. A Tkinter window will pop up with a background image and an initial quote.
 3. Click the Kanye button to fetch and display a new quote.
 
-## File Structure 📂
-
-The project structure should look like this:
-
-KanyeQuotesApp/
-│
-├── images/
-│ ├── background.png
-│ └── kanye.png
-│
-├── main.py
-└── README.md
-
-kotlin
-Copy code
-
 ## Conclusion 🎉
 
 The Kanye Quotes App is a fun project to practice working with APIs, Tkinter for GUI, and Python in general. Enjoy the profound (and sometimes hilarious) quotes from Kanye West!
