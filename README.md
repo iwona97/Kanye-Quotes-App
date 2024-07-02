@@ -10,7 +10,9 @@ Welcome to the Kanye Quotes App! This simple yet entertaining application fetche
 - Simple and intuitive GUI built with Tkinter.
 - Updates the displayed quote dynamically at the click of a button.
 
-![Kanye Quotes App Interface](images/Kanye Says.png)
+<div style="display: flex;">
+    <img src="images/Kanye Says.png" style="width: 50%;" alt="App Interface">
+</div>
 
 ## How It Works ⚙️
 
